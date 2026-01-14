@@ -2,7 +2,7 @@ The AI Agent uses:
 
  OpenAI for chat. 
  
- API key from OpenAI websie. 
+ API key from OpenAI website. 
  
  Base URL: https://api.groq.com/openai/v1
  
