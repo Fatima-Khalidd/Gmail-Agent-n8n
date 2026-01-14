@@ -1,3 +1,4 @@
+1.  GMAIL AI-AGENT:
 The AI Agent uses:
 
  OpenAI for chat. 
